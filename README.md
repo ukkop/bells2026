@@ -1,1 +1,78 @@
-index.html
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>valentines day 2026</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="title">
+        <img src="assets/heartdiv1.gif" alt="" />
+        <h1>for my bells</h1>
+        <img src="assets/heartdiv1.gif" alt="" />
+      </div>
+      <div class="column">
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+      </div>
+      <div class="column break">
+        <ul>
+          <li>Oh my bells,</li>
+
+          <li>
+            Thank you always for your kind words and heart, you are truly the
+            most innocent and well meaning creature. You are always my friend
+            with patience and kindness, even when I feel most undeserving, and
+            sabotagical.
+          </li>
+          <li>
+            <img src="assets/angel2.gif" alt="" />
+          </li>
+
+          <li>
+            There is not a place in this world where you couldnt go and have it
+            be changed for the better from your talent and kindness and
+            presence. You are truly a magically special and talented person with
+            many gifts and stories to share. Thank you so much for letting me
+            come along and sharing your world with someone like me. You blow me
+            away constantly with your dedication to your craft and how you
+            inspire others.
+          </li>
+          <li>
+            You and I are our own muses, I find you my special touy, you are
+            always inspiring me with your words and aspirations and goals. We
+            will be unstoppable one day.
+          </li>
+
+          <li>Please never change my Bells White!</li>
+          <img src="assets/mouse3.gif" alt="" style="width: 20px" />
+        </ul>
+      </div>
+      <div class="column">
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+        <img src="assets/baby1.gif" alt="" />
+        <img src="assets/baby2.gif" alt="" />
+      </div>
+    </div>
+  </body>
+</html>s
